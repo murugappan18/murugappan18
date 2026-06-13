@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm Currently Pursuing B.E-Computer and Communication Engineering in Prefinal year at Sri Sairam Institute of Technology<br>🔭 I’m Interested on Web Development and Cybersecurity<br>👯 I’m looking for internships on Cybersecurity or Web Development Domain<br>🌱 I’m currently learning Web Development and Cybersecurity<br>💬 Ask me anything about my Interests
+🎓 I'm a B.E-Computer and Communication Engineering Graduate at Sri Sairam Institute of Technology<br>🔭 I’m Interested on Full Stack Development and Cybersecurity<br>👯 I’m looking for jobs on Cybersecurity or Full Stack Development Domain<br>🌱 I’m currently learning Full Stack Development and Cybersecurity<br>💬 Ask me anything about my Interests
 
 
 ## 🌐 Socials:
